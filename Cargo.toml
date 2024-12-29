@@ -2,6 +2,8 @@
 name = "print_manager"
 version = "0.1.0"
 edition = "2021"
+authors = ["mb.codingtest@gmail.com"]
+description = "A thermal printer handler for pos aplications"
 
 [dependencies]
 printers = "2.1.0"
